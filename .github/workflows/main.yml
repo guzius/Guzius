@@ -25,5 +25,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
 © 2021 GitHub, Inc.
-Terms
-Privacy
