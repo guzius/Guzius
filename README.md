@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Sotrati
+## Olá! Sou o Gustavo ✌
 
 - 🌱 Atualmente estudando Desenvolvimento Web
 - 😄 Pronouns: ele/dele
