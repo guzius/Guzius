@@ -1,6 +1,6 @@
 ## Olá! Sou o Gustavo ✌
 
-- 🌱 Atualmente estudando Desenvolvimento Web na <a href="http://brazil.generation.org">Generation Brazil</a>
+- 🌱 Formado em Desenvolvimento Web Java Junior na <a href="http://brazil.generation.org">Generation Brazil</a>
 - 😄 Pronouns: ele/dele
 
 <div align="center">
