@@ -1,7 +1,7 @@
 ## Olá! Sou o Gustavo ✌
 
 - 🌱 Formado em Desenvolvimento Web Java Júnior na <a href="http://brazil.generation.org">Generation Brazil</a>
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Guzius">
